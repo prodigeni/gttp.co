@@ -11,27 +11,21 @@
       "text-align": "left"
     }],
 
-    [".gittip-widget .gittip-inner", {
+    [".gittip-inner", {
       "display": "block",
       "padding": "6pt 0 6pt 9pt",
       "overflow": "hidden"
     }],
 
-    [".gittip-widget a", {
+    ["a", {
       "color": "#2A8F79",
       "text-decoration": "none",
       "font-weight": "bold"
     }],
 
-    [".gittip-widget b", {
+    ["b", {
       "font-size": "12pt",
       "line-height": "14pt"
-    }],
-
-    [".gittip-widget .icon-gittip", {
-      "position": "absolute",
-      "top": "31pt",
-      "left": "64pt"
     }]
   ],
 
